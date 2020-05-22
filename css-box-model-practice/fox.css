@@ -1,0 +1,34 @@
+  #text {
+    width: 620px;
+    background-color: gray;
+    border: 15px gray;
+    padding: 50px;
+    margin: 20px;
+    height: 400px;
+    overflow: auto;
+  }
+
+  .important {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+ 
+  .picture {
+    width: 620px;
+    border: 15px gray;
+    padding: 50px;
+    margin: 20px;
+    height: 420px;
+  }
+    
+  div {
+    border-style: dotted;
+  }
+
+  .light-green-box {
+    background-color: lightgreen;
+    width: 50%;
+    border-style: solid; 
+    border-color: red;
+    
+  }
